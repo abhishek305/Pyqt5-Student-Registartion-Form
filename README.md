@@ -8,4 +8,6 @@ It consist of 2 files :
 
 Made using PyQt5 Designer.
 
+![img](https://user-images.githubusercontent.com/29656920/46520416-96c75f00-c899-11e8-8f7e-37f3c55a7daf.png)
+
 
